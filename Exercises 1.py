@@ -1,4 +1,5 @@
-# 1:
+# Write a Python program to print the following string in a specific format (see the output).:
+
 a = """Twinkle, twinkle, little star,
             How I wonder what you are!"""
 b = """Up above the world so high,
